@@ -1,3 +1,6 @@
+#Alex Clark
+#TEC 284 Quiz 2
+
 #import the LED and Button
 from gpiozero import LED, Button
 
